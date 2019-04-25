@@ -1,0 +1,16 @@
+Style: des_glaneuses, la_muse, mirror, udnie, wave_crop
+
+
+python main.py -s wave_crop -i ./pic/WechatIMG19.jpeg
+
+python main.py -s la_muse -i ./pic/averagers.jpg
+
+python main.py -s udnie -i ./pic/img_1302.jpg
+
+python main.py -s la_muse -i ./pic/WechatIMG19.jpeg
+
+python main.py -s des_glaneuses -i ./pic/WechatIMG19.jpeg
+
+python main.py -s udnie -i ./pic/WechatIMG19.jpeg
+
+python main.py -s la_muse -i ./pic/WechatIMG19.jpeg
