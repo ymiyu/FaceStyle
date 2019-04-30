@@ -13,3 +13,5 @@ Train a YOLO detection with FDDB:
 
     cd ./faceDetection/train_yolov2/
     python train.py
+
+The detected face(s) will be saved under "face" folder and the stylized face picture will be save under "transferred" folder.
